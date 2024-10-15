@@ -24,4 +24,4 @@ python 설치와 기본 문법
 
 작성한 python 파일을 terminal 에서 직접 실행하기
 
-<figure><img src=".gitbook/assets/240923_python_2.png" alt=""><figcaption><p>directory 는 미리 이동해놨다.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/240923_python_2.png" alt=""><figcaption></figcaption></figure>
